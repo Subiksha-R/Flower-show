@@ -1,2 +1,2 @@
 # Flower-show
-simple Flower show page using Html
+simple Web page for Flower show using Html
