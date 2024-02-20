@@ -1,2 +1,2 @@
-# Flower-show
-simple Web page for Flower show using Html
+# Simple HTML layout
+Designing a Web page for Flower show using Html
